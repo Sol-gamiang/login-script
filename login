@@ -4,6 +4,6 @@ if value ~= "1" and value ~= "2" and value ~= "2"
   showMessage("Error key !")
   closeCE()
 else
-  showMessage("Login Succses ")
+
 end
 
